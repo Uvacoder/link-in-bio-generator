@@ -29,7 +29,7 @@ export default {
   computed: {
     siteLink() {
       return (
-        'https://app.netlify.com/start/deploy?repository=https://github.com/cassidoo/link-in-bio-template#' +
+        'https://app.netlify.com/start/deploy?repository=https://github.com/uvacoder/link-in-bio-template#' +
         'VITE_NAME=' +
         this.name.replace(/ /g, '_') +
         '&' +
