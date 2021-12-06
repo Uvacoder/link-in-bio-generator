@@ -1,5 +1,5 @@
 <template>
-  <h1>Generate a "Link in Bio" Site</h1>
+  <h1>Generate a "my-Links" Site</h1>
   <div class="required">
     <p><span>Your name:</span> <input type="text" placeholder="Liz Lemon" v-model="name" /></p>
     <p>
@@ -15,7 +15,7 @@
   <p class="repos">
     <a href="https://test-lib-generated-stream-314.netlify.app/">Here's an example site</a>
     ·
-    <a href="https://github.com/cassidoo/link-in-bio-generator">Here's the repo</a>
+    <a href="https://github.com/uvacoder/link-in-bio-generator">Here's the repo</a>
   </p>
   
 </template>
